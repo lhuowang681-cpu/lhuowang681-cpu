@@ -17,7 +17,7 @@ A long-horizon LLM agent for job-search workflows, with a focus on **durable sta
 - Evaluated the system on unseen real-world job descriptions with frozen annotations and layered failure analysis
 - Integrated Qwen embeddings, FAISS, MCP, SQLite, and multiple LLM providers
 
-👉 [View project](https://github.com/lhuowang681-cpu/agent-backend-service)
+👉 [View project](https://github.com/lhuowang681-cpu/stateful-job-agent)
 
 ---
 
