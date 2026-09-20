@@ -30,8 +30,6 @@ Working on **multi-turn multimodal reasoning and visual grounding**.
 - First-author paper currently under review at a **CCF-A conference**
 - 📄 [Preprint on arXiv](https://arxiv.org/abs/2608.14148)
 
-> The submission venue is intentionally not disclosed here.
-
 ---
 
 ## 🔍 Current Interests
