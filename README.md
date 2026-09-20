@@ -1,4 +1,4 @@
-# Hi, I'm Xiongtai Yang 👋
+# Hi, I'm Xiongtai Yang👋
 
 🎓 M.S. student in Computer Science at **Sichuan University**  
 🤖 Interested in **LLM Agents, Agent Evaluation, RAG, and Multimodal Learning**  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 What I'm working on
+## 🚀 Featured Work
 
 ### 🧠 Stateful & Evidence-Grounded Job Agent
 
@@ -21,12 +21,25 @@ A long-horizon LLM agent for job-search workflows, with a focus on **durable sta
 
 ---
 
-## 🔍 Current interests
+### 🖼️ Multimodal Learning Research
 
-- 🤖 **LLM Agents** — runtime control, tool use, memory, long-horizon workflows
-- 🧪 **Agent Evaluation** — unseen holdout, failure attribution, subsystem vs. end-to-end evaluation
-- 🔎 **RAG & Evidence Grounding** — retrieval, verification, provenance, factual support
-- 🖼️ **Multimodal Learning** — visual grounding, stateful interaction, parameter-efficient fine-tuning
+Working on **multi-turn multimodal reasoning and visual grounding**.
+
+- Built a benchmark for state-dependent visual instance grounding
+- Fine-tuned **Qwen3-VL** with LoRA and conducted controlled evaluation
+- First-author paper currently under review at a **CCF-A conference**
+- 📄 [Preprint on arXiv](https://arxiv.org/abs/2608.14148)
+
+> The submission venue is intentionally not disclosed here.
+
+---
+
+## 🔍 Current Interests
+
+- 🤖 **LLM Agents** — runtime control, tool use, memory, and long-horizon workflows
+- 🧪 **Agent Evaluation** — unseen holdouts, failure attribution, and subsystem vs. end-to-end evaluation
+- 🔎 **RAG & Evidence Grounding** — retrieval, verification, provenance, and factual support
+- 🖼️ **Multimodal Learning** — visual grounding, stateful interaction, and parameter-efficient fine-tuning
 
 ---
 
@@ -43,7 +56,7 @@ A long-horizon LLM agent for job-search workflows, with a focus on **durable sta
 
 ---
 
-## 📌 A few things I care about
+## 📌 What I Care About
 
 - ✅ Prefer **measurable improvements** over demo-only results
 - ✅ Keep **retrieval relevance** separate from **factual evidence**
