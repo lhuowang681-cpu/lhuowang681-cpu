@@ -19,14 +19,14 @@ A long-horizon job-search and interview workbench built with **React, FastAPI, a
 
 ### 🧪 [Agent Eval · Trajectory Evaluation & Failure Attribution](https://github.com/lhuowang681-cpu/agent-eval-project)
 
-Reproduction, integration, and diagnostic experiments on an existing agent evaluation platform, focused on turning execution traces into **verifiable failure observations**.
+A trajectory-driven evaluation and diagnosis project connecting **agent runs, execution traces, evidence review, and failure analysis**.
 
 - Trace extraction and asynchronous diagnostic workers across TypeScript services, Python analysis, and PostgreSQL.
 - Evidence review that checks source identity and quotations, and distinguishes local faults, task outcomes, and causal claims.
 - Optional semantic sidecars with explicit budgets, plus event deduplication, failure-pattern grouping, and representative traces.
-- Recorded database integration tests, synthetic rule / review comparisons, and a small real-model smoke study; broader model gains remain under evaluation.
+- Validated PostgreSQL integration across 11 scenarios, compared rules and evidence review on 40 synthetic traces, and analyzed six real-model development requests.
 
-[Architecture & offline demo](https://github.com/lhuowang681-cpu/agent-eval-project#快速体验) · [Experiments & limitations](https://github.com/lhuowang681-cpu/agent-eval-project#验证与实验结果)
+[Architecture & offline demo](https://github.com/lhuowang681-cpu/agent-eval-project#快速体验) · [Experiments & results](https://github.com/lhuowang681-cpu/agent-eval-project#验证与实验结果)
 
 ### 🖼️ Multimodal Learning Research
 
